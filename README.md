@@ -1,5 +1,7 @@
 # KotlinForJavaDevelopersGrader
 
+[![official JetBrains project](https://jb.gg/badges/official-flat-square.svg)](https://confluence.jetbrains.com/display/ALL/JetBrains+on+GitHub)
+
 This is real grader that is currently being used for [Kotlin for Java Developers](https://www.coursera.org/learn/kotlin-for-java-developers) Coursera course by [JetBrains](https://www.jetbrains.com/).
 
 So as not to expose hidden tests and other content from the real course, a task from [Kotlin Koans workshop](https://github.com/Kotlin/kotlin-koans) is used as an example programming assignment.
